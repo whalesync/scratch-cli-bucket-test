@@ -1,0 +1,22 @@
+{
+    "version": "0.2.5-test",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.2.5-test/scratchmd-test_windows_amd64.zip",
+            "bin": [
+                "scratchmd.exe"
+            ],
+            "hash": "7d66999b3bfd53b24a95cc120b3a4e1f93c51659bfaeefa22f7d8fc03e61efa3"
+        },
+        "arm64": {
+            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.2.5-test/scratchmd-test_windows_arm64.zip",
+            "bin": [
+                "scratchmd.exe"
+            ],
+            "hash": "7583cfcde0985d99800f7b892311594d5d63fe49c47e31f8b1f8f99a790f70a9"
+        }
+    },
+    "homepage": "https://github.com/whalesync/scratch-cli",
+    "license": "Proprietary",
+    "description": "Sync local Markdown files with your CMS. (TEST RELEASE)"
+}

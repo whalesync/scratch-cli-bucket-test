@@ -6,14 +6,14 @@
             "bin": [
                 "scratchmd-test.exe"
             ],
-            "hash": "0037a5916143839b67f6da1f2ed317df627bb409e52f9a3bc4803c22924b9143"
+            "hash": "8878d06cd97ee2294a2c2bb63fb47853ed6e5fac7519b1a635364fa7d9bdcbe5"
         },
         "arm64": {
             "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.2-test/scratchmd-test_windows_arm64.zip",
             "bin": [
                 "scratchmd-test.exe"
             ],
-            "hash": "8ee14c9c3f44ed7a2878774a7368cfcd087682cd6e4d29b3c19803054e9307f8"
+            "hash": "128d8b06fdd2c7fc07a98a52c756e7d1be9c27189fac73a5fb59acd1cd842c4e"
         }
     },
     "homepage": "https://github.com/whalesync/scratch-cli",

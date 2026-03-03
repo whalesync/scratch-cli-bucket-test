@@ -1,19 +1,19 @@
 {
-    "version": "0.3.26-test",
+    "version": "0.3.27-test",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.26-test/scratchmd-test_windows_amd64.zip",
+            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.27-test/scratchmd-test_windows_amd64.zip",
             "bin": [
                 "scratchmd-test.exe"
             ],
-            "hash": "1749123aeee6469355c8ea9637a8a4898f5b655514e211a6f7d0c1237b8a48c3"
+            "hash": "7dc3fd1c2dc1a67131b96043f2cabd33c4851ab6be86ca328ed0d2a6bff2fd65"
         },
         "arm64": {
-            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.26-test/scratchmd-test_windows_arm64.zip",
+            "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.27-test/scratchmd-test_windows_arm64.zip",
             "bin": [
                 "scratchmd-test.exe"
             ],
-            "hash": "2ce5509a1e602e72e9de5d1e22f3a5eea497f00b82ce1b80a58151f336cda53c"
+            "hash": "fe578229e9153ef4682cddf60fe534b69f68e6f747aa3daeb0853a5a9ba7e00a"
         }
     },
     "homepage": "https://github.com/whalesync/scratch-cli",
